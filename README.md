@@ -11,6 +11,6 @@ News.tsv: News atricles attributes.
 User preferences is in implicit feedback.
 
 Methods we used here:
-Most popular
-Feature-based recommendation system using cosin similarity (using news article attribute 'abstract')
-Item-based CF using KNN and Cosine similarity.
+- Most popular
+- Feature-based recommendation system using cosin similarity (using news article attribute 'abstract')
+- Item-based CF using KNN and Cosine similarity.
